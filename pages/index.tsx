@@ -1,1 +1,1 @@
-/* Homepage code (Home component) */
+/* Homepage code (Home component) 
